@@ -1,0 +1,13 @@
+cd /c/djangoweather/weather
+
+source venv/Scripts/activate
+
+git config --global user.name "Animesh Sanyal"
+
+git config --global user.email "animeshsanyal@yahoo.com"
+
+git config --global push.default matching
+
+git config --global alias.co checkout
+
+git init
